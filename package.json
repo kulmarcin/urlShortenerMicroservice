@@ -1,0 +1,17 @@
+{
+    "name": "shorturl",
+    "version": "0.0.3",
+    "description": "API project for freeCodeCamp",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
